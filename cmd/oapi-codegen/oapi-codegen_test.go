@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/andrewstucki/oapi-codegen/pkg/util"
+	"github.com/joshinjohnson/oapi-codegen/pkg/util"
 )
 
 func TestLoader(t *testing.T) {
